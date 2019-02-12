@@ -17,7 +17,7 @@ The test data contains operating parameters and sensor data from engines in the 
 
 Modeling Strategy 
 
-Analyze the sensor data from 708 engines in four different operating categories.  
+Analyze the sensor data from 708 engines in four different catgories of operating conditions.  
 Describe behavior of various sensors. 
 Decide whether to predict number of cycles of engine failure (classification problem) or forecast the useful life of each engine in the test set (forecasting problem). 
 From an engineering standpoint, jet engine damage propagation is modeled by measurement of the thermal conditions of the turbine with measurements of pressure, fuel, and other mechanical and fluid variables.    
