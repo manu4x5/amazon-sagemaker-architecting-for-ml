@@ -6,10 +6,10 @@ To predict when maintenance of an aircraft engine is required.
 
 Datasets 
 
-4 datasets are available for train and test data. 
-Each dataset is associated to a specific failure.  
-The train data displays the useful cycles when engine failed. 
-The test data contains operating parameters and sensor data from engines in the early stage of their useful life.  
+   - 4 datasets are available for train and test data. 
+   - Each dataset is associated to a specific failure.  
+   - The train data displays the useful cycles when engine failed. 
+   - The test data contains operating parameters and sensor data from engines in the early stage of their useful life.  
 
 Modeling Strategy 
 
