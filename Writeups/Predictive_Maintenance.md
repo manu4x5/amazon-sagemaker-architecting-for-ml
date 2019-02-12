@@ -1,5 +1,33 @@
 # Predictive Maintenance using Machine Learning on Sagemaker
 
+# Project Goal
+
+Predictive Maintenance using Machine Learning on Sagemaker
+
+Project Goal
+ 
+To predict when maintenance of an aircraft engine is required. 
+
+Datasets 
+
+4 datasets are available for train and test data. 
+Each dataset is associated to a specific failure.  
+The train data displays the useful cycles when engine failed. 
+The test data contains operating parameters and sensor data from engines in the early stage of their useful life.  
+
+Modeling Strategy 
+
+Analyze the sensor data from 708 engines in four different operating categories.  
+Describe behavior of various sensors. 
+Decide whether to predict number of cycles of engine failure (classification problem) or forecast the useful life of each engine in the test set (forecasting problem). 
+From an engineering standpoint, jet engine damage propagation is modeled by measurement of the thermal conditions of the turbine with measurements of pressure, fuel, and other mechanical and fluid variables.    
+
+End Goal
+
+Predict the number of cycles of the engine failure in the test set in order to schedule the appropriate maintenance. 
+
+
+
 ### Introduction
 
 Imagine you are the manager at a manufacturing company responsible for monitoring assembly lines. Each assembly line contains multiple kinds of machines that must work continuously and reliably to produce ready-to-ship products as can be seen in the image below. IoT sensors placed on these machines monitor electricity consumption, noise generated, vibration, temperature and various other measurable quantities that are used to monitor the health of each machine. Sudden breakdown of any of these machines across multiple assembly lines will lead to:
