@@ -2,10 +2,6 @@
 
 ### Project Goal
 
-Predictive Maintenance using Machine Learning on Sagemaker
-
-Project Goal
- 
 To predict when maintenance of an aircraft engine is required. 
 
 Datasets 
