@@ -10,6 +10,8 @@ Datasets
    - Each dataset is associated to a specific failure.  
    - The train data displays the useful cycles when engine failed. 
    - The test data contains operating parameters and sensor data from engines in the early stage of their useful life.  
+   
+   Source: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan.
 
 Modeling Strategy 
 
