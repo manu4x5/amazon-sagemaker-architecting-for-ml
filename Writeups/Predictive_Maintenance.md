@@ -1,6 +1,6 @@
 # Predictive Maintenance using Machine Learning on Sagemaker
 
-# Project Goal
+### Project Goal
 
 Predictive Maintenance using Machine Learning on Sagemaker
 
